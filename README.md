@@ -1,7 +1,10 @@
-# Experiment-07- Encoders-and-decoders 
-### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+# Experiment 07 Encoders and decoders 
+### AIM: 
+To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
+### HARDWARE REQUIRED:  
+PC, Cyclone II , USB flasher
+### SOFTWARE REQUIRED:   
+Quartus prime
 ### THEORY 
 
 ## Encoders
@@ -54,30 +57,30 @@ D7 = X Y Z
 ![image](https://user-images.githubusercontent.com/36288975/171543866-5a6eace6-8683-49d7-9c4f-a7cb30ec3035.png)
 ## Figure -04 8 to 3 Decoder implementation 
 
-### Procedure
-Step 1:
+## Procedure
+### Step 1:
 Open Quartus II and select new project and choose the file location.
 
-Step 2:
+### Step 2:
 Module Declaration. Module should have the file name.
 
-Step 3:
+### Step 3:
 Input-Output Delecaration.
 
-Step 4:
+### Step 4:
 Use assign to define the functionality of logic circuits.
 
-Step 5:
+### Step 5:
 At the end give endmodule.
 
-Step 6:
+### Step 6:
 Run the program and choose RTL viewer to get RTL realization.
 
 ### PROGRAM 
 ```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: G Venkata Pavan Kumar
-RegisterNumber: 212221240013
+Developed by: Someasvar R
+RegisterNumber: 212221230103
 ```
 ### ENCODER:
 ```
